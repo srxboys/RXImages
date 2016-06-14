@@ -30,7 +30,9 @@
 ![srxboys-avplayer](https://github.com/srxboys/RXImages/blob/master/GHS/srxboys_AVPlayer2.gif)
 ![srxboys-avplayer](https://github.com/srxboys/RXImages/blob/master/GHS/srxboys_AVPlayer3.gif)
 ### 9、`现在的项目`
+###### 1.5.2版本
 ![srxboys-avplayer](https://github.com/srxboys/RXImages/blob/master/GHS/srxboys_GHS1.5.2.gif)
+###### 2.0.0+ 版本
 ![srxboys-avplayer](https://github.com/srxboys/RXImages/blob/master/GHS/srxboys.gif)
 ![srxboys-avplayer](https://github.com/srxboys/RXImages/blob/master/GHS/srxboys_TableView_navigation.gif)
 -
