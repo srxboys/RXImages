@@ -1,6 +1,6 @@
 # 我的demo所有动画集
 
-### 1、[UILabel自适应高度的3种方法](https://github.com/srxboys/RXExtenstion/blob/master/srxboys/label/srxboys_UILabel1.gif)
+### 1、[UILabel自适应高度的3种方法](https://github.com/srxboys/RXExtenstion)
 ![srxboys-Label1](https://github.com/srxboys/RXExtenstion/blob/master/srxboys/label/srxboys_UILabel1.gif)
 ![srxboys-Label2](https://github.com/srxboys/RXExtenstion/blob/master/srxboys/label/srxboys_UILabel2.gif)
 ![srxboys-Label3](https://github.com/srxboys/RXExtenstion/blob/master/srxboys/label/srxboys_UILabel3.gif)
