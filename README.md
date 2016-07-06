@@ -32,7 +32,7 @@
 ###### 2.0.0+ 版本
 ![srxboys-avplayer](https://github.com/srxboys/RXImages/blob/master/GHS/srxboys.gif)![srxboys-avplayer](https://github.com/srxboys/RXImages/blob/master/GHS/srxboys_TableView_navigation.gif)
 ### 10、`xcode 插件推荐`
-![srxboys-xcode_package_manager](https://github.com/srxboys/RXImages/blob/master/GHS/xcode_package_manager)
+![srxboys-xcode_package_manager](https://github.com/srxboys/RXImages/blob/master/GHS/xcode_package_manager.png)
 -
 
 如果你有想说的可以 [issues I](https://github.com/srxboys/RXExtenstion/issues) 。
