@@ -32,7 +32,8 @@
 ![srxboys RXTabBarDemoGif](https://github.com/srxboys/RXTabBarDemo/blob/master/RXTabBarDemo/Mode/srxboys_RXTabBarDemo.gif)
 
 ### 10、[Object-C 友盟社会化组件SDK 分享、第三方平台授权 自封装展示页面](https://github.com/srxboys/RXUMDemo)
-![srxboys_RXUMDemo](https://github.com/srxboys/RXUMDemo/blob/master/srxboys_UMShare.gif)
+![srxboys_RXUMDemo1](https://github.com/srxboys/RXUMDemo/blob/master/RXUMDemo1/srxboys_UMShare.gif)
+![srxboys_RXUMDemo2](https://github.com/srxboys/RXUMDemo/blob/master/RXUMDemo2/srxboys_UMDemo2.gif)
 
 ### 11、[不是技术的技术博客](https://weibo.com/srxboys)
 
