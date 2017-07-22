@@ -24,9 +24,8 @@
 ### 7、[日期、时间 选择样式](https://github.com/srxboys/RXExtenstion#7日期时间-选择样式)
 ![srxboys_pickerDate](https://github.com/srxboys/RXExtenstion/blob/master/srxboys/datePicker/datePicker.gif)
 
-### 8、[图片缓存 淡入淡出效果](https://github.com/srxboys/SDWebImage-FadeInFadeOut)
-[![FadeInFadeOut]](https://github.com/srxboys)  
-[FadeInFadeOut]:https://github.com/srxboys/SDWebImage-FadeInFadeOut/blob/master/Example/Example/UIImageView%2BFadeInFadeOut.gif  "srxboys" 
+### 8、[图片缓存 淡入淡出效果](https://github.com/srxboys/SDWebImage-FadeInFadeOut)  <br>
+![[FadeInFadeOut](https://github.com/srxboys/SDWebImage-FadeInFadeOut)](https://github.com/srxboys/SDWebImage-FadeInFadeOut/blob/master/Example/Example/UIImageView+FadeInFadeOut.gif?raw=true)
 
 ### 9、[iOS object-C 自定义封装成 和 UITabBarView一样的功能。主要体现在 UITabBar样式上，可以随意修改](https://github.com/srxboys/RXTabBarDemo)
 ![srxboys RXTabBarDemoGif](https://github.com/srxboys/RXTabBarDemo/blob/master/RXTabBarDemo/Mode/srxboys_RXTabBarDemo.gif)
