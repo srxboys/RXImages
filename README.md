@@ -33,20 +33,42 @@
 ### 10、[Object-C 友盟社会化组件SDK 分享、第三方平台授权 自封装展示页面](https://github.com/srxboys/RXUMDemo)
 ![srxboys_RXUMDemo1](https://github.com/srxboys/RXUMDemo/blob/master/RXUMDemo1/srxboys_UMShare.gif)
 ![srxboys_RXUMDemo2](https://github.com/srxboys/RXUMDemo/blob/master/RXUMDemo2/srxboys_UMDemo2.gif)
+![srxboys_screenshot](https://github.com/srxboys/RXUMDemo/blob/master/RXUMDemo1/srxboys_screenshot.gif)
 
-### 11、[3D Touch 自定制](https://github.com/srxboys/RXExtenstion#83d-touch-自定制)
+### 11、[Object-C  3D Touch 自定制](https://github.com/srxboys/RXExtenstion#83d-touch-自定制)
 ![srxboys_3DTouch](https://github.com/srxboys/RXExtenstion/blob/master/srxboys/3DTouch/srxboys_3DTouch.gif)
 
-### 12、[不是技术的技术博客](https://weibo.com/srxboys)
+### 12、[Object-C  Today Extension](https://github.com/srxboys/RXTodayDemo)
+![srxboys_Today](https://github.com/srxboys/RXTodayDemo/blob/master/srxboys/srxboys_today.gif)
 
-### 13、`自定义AVPlayer 视频播放器`
+### 13、[Object-C  日历签到 SignIn](https://github.com/srxboys/RXSignIN)
+![srxboys_signIN](https://github.com/srxboys/RXSignIN/blob/master/srxboys/signIN.gif)
+
+### 14、[Object-C  GIFDemo](https://github.com/srxboys/GIFDemo)
+![srxboys_RXGifDemo](https://github.com/srxboys/GIFDemo/blob/master/gifDemo.gif) 
+
+### 15、[Object-C  RXSiri](https://github.com/iOSBrothers/RXSiri)
+###### 目前demo:(全局app 和 Extension 还没有通信)
+![srxboys_Siri](https://github.com/iOSBrothers/RXSiri/blob/master/srxboys/RXSiri.png)
+###### 其中一个:
+![srxboys_Siri](https://github.com/iOSBrothers/RXSiri/blob/master/srxboys/sendMessage.png)
+
+### 16、[RXSwiftExtention](https://github.com/srxboys/RXSwiftExtention)
+![srxboys_project](https://github.com/srxboys/RXSwiftExtention/blob/master/githubSource/app_srxboys.gif)
+![srxboys_RXLog](https://github.com/srxboys/RXSwiftExtention/blob/master/githubSource/RXLog.png)
+
+### 16、[不是技术的技术博客](https://weibo.com/srxboys)
+
+### 17、`自定义AVPlayer 视频播放器`
 ![srxboys-avplayer](https://github.com/srxboys/RXImages/blob/master/GHS/srxboys_AVPlayer.gif)![srxboys-avplayer](https://github.com/srxboys/RXImages/blob/master/GHS/srxboys_AVPlayer2.gif)![srxboys-avplayer](https://github.com/srxboys/RXImages/blob/master/GHS/srxboys_AVPlayer3.gif)
-### 14、`现在的项目`
+
+### 18、`现在的项目`
 ###### 1.5.2版本
 ![srxboys-avplayer](https://github.com/srxboys/RXImages/blob/master/GHS/srxboys_GHS1.5.2.gif)
 ###### 2.0.0+ 版本
 ![srxboys-avplayer](https://github.com/srxboys/RXImages/blob/master/GHS/srxboys.gif)![srxboys-avplayer](https://github.com/srxboys/RXImages/blob/master/GHS/srxboys_TableView_navigation.gif)
-### 15、`xcode 插件推荐`
+
+### 19、`xcode 插件推荐`
 ![srxboys-xcode_package_manager](https://github.com/srxboys/RXImages/blob/master/GHS/xcode_package_manager.png)
 -
 
